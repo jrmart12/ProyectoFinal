@@ -1,0 +1,235 @@
+# depslib dependency file v1.0
+1496295819 source:c:\users\alejandro caraccioli\desktop\estructura de datos\proyecto_memvirtual\archivo.cpp
+	"archivo.h"
+
+1496206297 c:\users\alejandro caraccioli\desktop\estructura de datos\proyecto_memvirtual\archivo.h
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string.h>
+
+1496264492 source:c:\users\alejandro caraccioli\desktop\estructura de datos\proyecto_memvirtual\bloquea.cpp
+	"BloqueA.h"
+
+1496264345 c:\users\alejandro caraccioli\desktop\estructura de datos\proyecto_memvirtual\bloquea.h
+	"archivo.h"
+	<stdio.h>
+	<iostream>
+
+1496338845 source:c:\users\alejandro caraccioli\desktop\estructura de datos\proyecto_memvirtual\bloquef.cpp
+	"BloqueF.h"
+
+1496272930 c:\users\alejandro caraccioli\desktop\estructura de datos\proyecto_memvirtual\bloquef.h
+	<list>
+	"fileentry.h"
+	<stdio.h>
+	"archivo.h"
+
+1496273125 c:\users\alejandro caraccioli\desktop\estructura de datos\proyecto_memvirtual\fileentry.h
+	<stdio.h>
+	<string.h>
+
+1496351317 source:c:\users\alejandro caraccioli\desktop\estructura de datos\proyecto_memvirtual\discovirtual.cpp
+	"DiscoVirtual.h"
+
+1496343275 c:\users\alejandro caraccioli\desktop\estructura de datos\proyecto_memvirtual\discovirtual.h
+	"archivo.h"
+	"MB.h"
+	"fileentry.h"
+	"list"
+	"BloqueA.h"
+	"BloqueF.h"
+	"iostream"
+	"string"
+	<list>
+	<stdio.h>
+
+1496273177 c:\users\alejandro caraccioli\desktop\estructura de datos\proyecto_memvirtual\mb.h
+	"archivo.h"
+	<stdio.h>
+
+1496274508 source:c:\users\alejandro caraccioli\desktop\estructura de datos\proyecto_memvirtual\fileentry.cpp
+	"fileentry.h"
+
+1496350172 source:c:\users\alejandro caraccioli\desktop\estructura de datos\proyecto_memvirtual\main.cpp
+	<iostream>
+	"DiscoVirtual.h"
+
+1496273266 source:c:\users\alejandro caraccioli\desktop\estructura de datos\proyecto_memvirtual\mb.cpp
+	"MB.h"
+
+1496359518 source:c:\users\rodol\pictures\proyecto14-master\proyecto_memvirtual\archivo.cpp
+	"archivo.h"
+
+1496359545 c:\users\rodol\pictures\proyecto14-master\proyecto_memvirtual\archivo.h
+	<stdio.h>
+
+1496348432 source:c:\users\rodol\pictures\proyecto14-master\proyecto_memvirtual\bloquea.cpp
+	"BloqueA.h"
+
+1496359395 c:\users\rodol\pictures\proyecto14-master\proyecto_memvirtual\bloquea.h
+	"archivo.h"
+	<stdio.h>
+	<string.h>
+	<iostream>
+
+1496356714 source:c:\users\rodol\pictures\proyecto14-master\proyecto_memvirtual\bloquef.cpp
+	"BloqueF.h"
+
+1496348432 c:\users\rodol\pictures\proyecto14-master\proyecto_memvirtual\bloquef.h
+	<list>
+	"fileentry.h"
+	<stdio.h>
+	"archivo.h"
+
+1496348432 c:\users\rodol\pictures\proyecto14-master\proyecto_memvirtual\fileentry.h
+	<stdio.h>
+	<string.h>
+
+1496357436 source:c:\users\rodol\pictures\proyecto14-master\proyecto_memvirtual\discovirtual.cpp
+	"DiscoVirtual.h"
+
+1496355998 c:\users\rodol\pictures\proyecto14-master\proyecto_memvirtual\discovirtual.h
+	"archivo.h"
+	"MB.h"
+	"fileentry.h"
+	"list"
+	"BloqueA.h"
+	"BloqueF.h"
+	"iostream"
+	"string"
+	<list>
+	<stdio.h>
+
+1496348432 c:\users\rodol\pictures\proyecto14-master\proyecto_memvirtual\mb.h
+	"archivo.h"
+	<stdio.h>
+
+1496348432 source:c:\users\rodol\pictures\proyecto14-master\proyecto_memvirtual\fileentry.cpp
+	"fileentry.h"
+
+1496358174 source:c:\users\rodol\pictures\proyecto14-master\proyecto_memvirtual\main.cpp
+	<iostream>
+	"DiscoVirtual.h"
+
+1496348432 source:c:\users\rodol\pictures\proyecto14-master\proyecto_memvirtual\mb.cpp
+	"MB.h"
+
+1496685049 source:c:\users\leovavi\downloads\proyectoestructuras-master\proyecto_memvirtual\archivo.cpp
+	"Archivo.h"
+
+1496685043 c:\users\leovavi\downloads\proyectoestructuras-master\proyecto_memvirtual\archivo.h
+	<stdio.h>
+
+1496685043 source:c:\users\leovavi\downloads\proyectoestructuras-master\proyecto_memvirtual\bloquea.cpp
+	"BloqueA.h"
+
+1496685043 c:\users\leovavi\downloads\proyectoestructuras-master\proyecto_memvirtual\bloquea.h
+	"Archivo.h"
+	<stdio.h>
+	<string.h>
+	<iostream>
+
+1496689894 source:c:\users\leovavi\downloads\proyectoestructuras-master\proyecto_memvirtual\bloquef.cpp
+	"BloqueF.h"
+
+1496685063 c:\users\leovavi\downloads\proyectoestructuras-master\proyecto_memvirtual\bloquef.h
+	<list>
+	<iostream>
+	"fileentry.h"
+	<stdio.h>
+	"Archivo.h"
+
+1496685043 c:\users\leovavi\downloads\proyectoestructuras-master\proyecto_memvirtual\fileentry.h
+	<stdio.h>
+	<string.h>
+
+1496689947 source:c:\users\leovavi\downloads\proyectoestructuras-master\proyecto_memvirtual\discovirtual.cpp
+	"DiscoVirtual.h"
+
+1496685043 c:\users\leovavi\downloads\proyectoestructuras-master\proyecto_memvirtual\discovirtual.h
+	"Archivo.h"
+	"MB.h"
+	"fileentry.h"
+	"list"
+	"BloqueA.h"
+	"BloqueF.h"
+	"iostream"
+	"string"
+	<list>
+	<stdio.h>
+
+1496685081 c:\users\leovavi\downloads\proyectoestructuras-master\proyecto_memvirtual\mb.h
+	"Archivo.h"
+	<stdio.h>
+	<string.h>
+
+1496685043 source:c:\users\leovavi\downloads\proyectoestructuras-master\proyecto_memvirtual\fileentry.cpp
+	"fileentry.h"
+
+1496690180 source:c:\users\leovavi\downloads\proyectoestructuras-master\proyecto_memvirtual\main.cpp
+	<iostream>
+	"DiscoVirtual.h"
+
+1496685043 source:c:\users\leovavi\downloads\proyectoestructuras-master\proyecto_memvirtual\mb.cpp
+	"MB.h"
+
+1496709005 source:c:\users\rodol\desktop\proyectoestructuras-master\proyecto_memvirtual\archivo.cpp
+	"Archivo.h"
+
+1496685044 c:\users\rodol\desktop\proyectoestructuras-master\proyecto_memvirtual\archivo.h
+	<stdio.h>
+
+1496699530 source:c:\users\rodol\desktop\proyectoestructuras-master\proyecto_memvirtual\bloquea.cpp
+	"BloqueA.h"
+
+1496685044 c:\users\rodol\desktop\proyectoestructuras-master\proyecto_memvirtual\bloquea.h
+	"Archivo.h"
+	<stdio.h>
+	<string.h>
+	<iostream>
+
+1496699230 source:c:\users\rodol\desktop\proyectoestructuras-master\proyecto_memvirtual\discovirtual.cpp
+	"DiscoVirtual.h"
+
+1496685044 c:\users\rodol\desktop\proyectoestructuras-master\proyecto_memvirtual\discovirtual.h
+	"Archivo.h"
+	"MB.h"
+	"fileentry.h"
+	"list"
+	"BloqueA.h"
+	"BloqueF.h"
+	"iostream"
+	"string"
+	<list>
+	<stdio.h>
+
+1496685082 c:\users\rodol\desktop\proyectoestructuras-master\proyecto_memvirtual\mb.h
+	"Archivo.h"
+	<stdio.h>
+	<string.h>
+
+1496685044 c:\users\rodol\desktop\proyectoestructuras-master\proyecto_memvirtual\fileentry.h
+	<stdio.h>
+	<string.h>
+
+1496685064 c:\users\rodol\desktop\proyectoestructuras-master\proyecto_memvirtual\bloquef.h
+	<list>
+	<iostream>
+	"fileentry.h"
+	<stdio.h>
+	"Archivo.h"
+
+1496685044 source:c:\users\rodol\desktop\proyectoestructuras-master\proyecto_memvirtual\fileentry.cpp
+	"fileentry.h"
+
+1496698648 source:c:\users\rodol\desktop\proyectoestructuras-master\proyecto_memvirtual\main.cpp
+	<iostream>
+	"DiscoVirtual.h"
+
+1496709300 source:c:\users\rodol\desktop\proyectoestructuras-master\proyecto_memvirtual\mb.cpp
+	"MB.h"
+
+1496698610 source:c:\users\rodol\desktop\proyectoestructuras-master\proyecto_memvirtual\bloquef.cpp
+	"BloqueF.h"
+
